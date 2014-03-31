@@ -1,0 +1,12 @@
+name: BlockLimit
+version: 1.0
+main: pl.AYuPro.blocklimit.BlockLimit
+author: AYuPro
+description: Set limit for num of blocks in one chunk.
+depend: [WorldGuard]
+
+commands:
+    blocklimlist:
+        usage: /<command>
+        aliases: [bllist, blocklist]
+        description: ----
